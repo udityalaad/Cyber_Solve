@@ -1,0 +1,4 @@
+Requirements:
+  • Java:  JDK, JRE
+  • NetBeans IDE
+  • Launch4j – Cross-platform Java Executable Wrapper

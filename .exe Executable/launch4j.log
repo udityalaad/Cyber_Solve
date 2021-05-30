@@ -1,0 +1,53 @@
+
+
+Version:	3.14
+CmdLine:	C:\Users\Uditya\Desktop\Git hub\In Process\CCNS - All in One\Uploaded - [On Github]\.exe Executable\ccns.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Uditya\Desktop\Git hub\In Process\CCNS - All in One\Uploaded - [On Github]\.exe Executable\.
+Java min ver:	1.007.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_162\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_102
+Check launcher:	C:\Program Files\Java\jre1.8.0_102\bin\javaw.exe (OK)
+Match:		1.008.000_102
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_112
+Check launcher:	C:\Program Files\Java\jre1.8.0_112\bin\javaw.exe (OK)
+Match:		1.008.000_112
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_131
+Check launcher:	C:\Program Files\Java\jre1.8.0_131\bin\javaw.exe (OK)
+Match:		1.008.000_131
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_144
+Check launcher:	C:\Program Files\Java\jre1.8.0_144\bin\javaw.exe (OK)
+Match:		1.008.000_144
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_162
+Check launcher:	C:\Program Files\Java\jre1.8.0_162\bin\javaw.exe (OK)
+Match:		1.008.000_162
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_102
+Ignore:		1.008.000_102
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_144
+Ignore:		1.008.000_144
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_162
+Ignore:		1.008.000_162
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+Check:		SOFTWARE\JavaSoft\JRE\10
+Check launcher:	C:\Program Files\Java\jre-10.0.2\bin\javaw.exe (OK)
+Match:		1.010.000
+Check:		SOFTWARE\JavaSoft\JRE\10.0.2
+Check launcher:	C:\Program Files\Java\jre-10.0.2\bin\javaw.exe (OK)
+Match:		1.010.000_002
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\10
+Ignore:		1.010.000
+Check:		SOFTWARE\JavaSoft\JDK\10.0.2
+Ignore:		1.010.000_002
+Runtime used:	1.010.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jre-10.0.2\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Uditya\Desktop\Git hub\In Process\CCNS - All in One\Uploaded - [On Github]\.exe Executable\ccns.exe"
+Args length:	115/32768 chars
+Exit code:	0
