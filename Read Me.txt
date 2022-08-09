@@ -1,4 +1,0 @@
-Note: Please refer 'Samples.pdf', for exact input-format.
-	[Specially for 'Hill-cipher', make sure to separate the numbers in 'key-matrix' by 'tab' (as shown in  'Samples.pdf')]
-
-- For detailed implementation, one can run the jar file using java command (in Command Prompt), and learn how the algorithms progress in the backend (on click of each button).
