@@ -25,7 +25,7 @@ https://github.com/othneildrew/Best-README-Template -->
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#some-sample-examples">Some Sample Examples</a></li>
+    <li><a href="#screenshots">Screenshots</a></li>
     <li><a href="#license-or-author">License or Author</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -86,48 +86,26 @@ https://github.com/othneildrew/Best-README-Template -->
     1. Get <b>'Cyber Solve.exe'</b> or <b>'Cyber Solve.exe'</b> from the parent directory.
     2. Run the executable on your windows machine.
 
-  <p align="center"> <img src="Read_Me_Content/Examples/SS1.JPG" alt="Screenshot" width=""> &nbsp &nbsp <img src="Read_Me_Content/Examples/SS2.JPG" alt="Screenshot"> </p>
+  #### Examples:
+  * To try out the application first-hand, you can use the following from <b>'Requirements/Samples.pdf'</b>.
+  * A similar step-wise analysis can be performed when running the application with <b>console</b>, via the IDE.
+  * [Specially for 'Hill-cipher', make sure to separate the numbers in 'key-matrix' by 'tab' (as shown in  'Samples.pdf')]
+
+  <spacer height="10" width="10"></spacer>
+  
+  #### Detailed Implementation:
+  Can be performed in one of the following 2 ways:
+  1. For detailed implementation, one can run the jar file using java command (in Command Prompt), and learn how the algorithms progress in the backend (on click of each button).
+  2. Running the application with <b>console</b>, via the IDE.
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<!-- Some Sample Examples -->
-## Some Sample Examples
-To try out the application first-hand, you can use the following examples.
-A similar step-wise analysis can be performed when running the application with <b>console</b>, via the IDE.
-
-#### Examples:
-  (Can also be found in <b>'Requirements/Samples.pdf'</b>)
-  * ##### <u>Caesar Cipher</u>
-      <img src="Read_Me_Content/Examples/CaesarCipher.JPG" alt="CaesarCipher">
-
-  * ##### <u>Rail-fence Cipher</u>
-      <img src="Read_Me_Content/Examples/RailfenceCipher.JPG" alt="RailfenceCipher">
-
-  * ##### <u>Columnar Transposition</u>
-      <img src="Read_Me_Content/Examples/ColumnarTransposition.JPG" alt="ColumnarTransposition">
-
-  * ##### <u>Playfair Cipher</u>
-      <img src="Read_Me_Content/Examples/PlayfairCipher.JPG" alt="PlayfairCipher">
-      
-  * ##### <u>Hill Cipher</u>
-      <img src="Read_Me_Content/Examples/HillCipher.JPG" alt="HillCipher">
-
-  * ##### <u>One-time pad</u>
-      <img src="Read_Me_Content/Examples/OneTimePad.JPG" alt="OneTimePad">
-
-  * ##### <u>Extended Euclidian Algorithm</u>
-      <img src="Read_Me_Content/Examples/ExtendedEuclidianAlgorithm.JPG" alt="ExtendedEuclidianAlgorithm">
-
-  * ##### <u>DES (Data Encryption Standard)</u>
-      <img src="Read_Me_Content/Examples/DES.png" alt="DES">
-
-  * ##### <u>RSA (Rivest-Shamir-Adleman)</u>
-      <img src="Read_Me_Content/Examples/RSA.JPG" alt="RSA">
-
-  * ##### <u>Diffie-Hellman Key Exchange</u>
-      <img src="Read_Me_Content/Examples/DiffieHellmanKeyExchange.JPG" alt="DiffieHellmanKeyExchange">
-
+<!-- SCREENSHOTS -->
+## Screenshots
+   <p align="center"> <img src="Read_Me_Content/Examples/SS1.JPG" alt="Screenshot" width=""> &nbsp &nbsp <img src="Read_Me_Content/Examples/SS2.JPG" alt="Screenshot"> </p>
+   
+   <p align="right">(<a href="#readme-top">back to top</a>)</p>
+   
 <!-- LICENSE -->
 ## License or Author
   * Uditya Laad, Goa College of Engineering, Goa University, GA, IN
